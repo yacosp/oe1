@@ -9,6 +9,30 @@ _¿las ovejas eléctricas sueñan con asteroides?_
 
 -------
 
+objectives:
+- [x] play with a.i.
+- [x] select platform
+- [x] verify ideas
+
+milestones:
+- first prize for the initial project, premio limb0 / museo de arte moderno de buenos aires.
+- onen: java+tcl (!), creates piano pieces based on the internal state of a neural network.
+- mat: onen trio (piano, ebass, taurus), incorporates conway's life cellular automata.
+- smat: csound pure sinusoidal version of mat.
+- bopfield: micromoog patch creator based on unstable hopfield networks, written in c.
+- first statistical learning experiments (bopfield).
+
+people & orgs:  
+[sofía](http://blog.yaco.net/in-memoriam/), [azul](http://azuldemadrugada.tumblr.com), lucas, [jorge haro](http://www.jorgeharo.com.ar/) / [museo de arte moderno de buenos aires](http://www.museomoderno.org/), [fundación telefónica](http://www.fundaciontelefonica.com.ar/).
+
+conclusions:
+- neural and hopfield nets are nice, can i build a whole music-composing-brain with them?
+- statistical learning smells real good.
+- java sucks, c is too much: next time try python <3
+- i _need_ a glider t-shirt...
+
+-------
+
 **warning**:  
 this is experimental free software. it will probably require some fiddling with dependencies and code tampering in order to run in any setup but the original lab boxes it was developed for. you can contact me for assistance, questions or ideas to share at [yaco@yaco.net](mailto:yaco@yaco.net).
 

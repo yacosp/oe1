@@ -23,7 +23,7 @@ milestones:
 - first statistical learning experiments (bopfield).
 
 people & orgs:  
-[sofía](http://blog.yaco.net/in-memoriam/), [azul](http://azuldemadrugada.tumblr.com), lucas, [jorge haro](http://www.jorgeharo.com.ar/) / [museo de arte moderno de buenos aires](http://www.museomoderno.org/), [fundación telefónica](http://www.fundaciontelefonica.com.ar/).
+oscar, [sofía](http://blog.yaco.net/in-memoriam/), [azul](http://azuldemadrugada.tumblr.com), lucas, [jorge haro](http://www.jorgeharo.com.ar/) / [museo de arte moderno de buenos aires](http://www.museomoderno.org/), [fundación telefónica](http://www.fundaciontelefonica.com.ar/).
 
 conclusions:
 - neural and hopfield nets are nice, can i build a whole music-composing-brain with them?
